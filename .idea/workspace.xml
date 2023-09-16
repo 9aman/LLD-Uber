@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dadc19b9-7623-4971-b53f-d3b02bd385f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Exceptions/DriverExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Exceptions/DriverNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Exceptions/RiderExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Exceptions/RiderNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Exceptions/TripNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/DriverPartner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/RideType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/Rider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/Trip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/TripMetaData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/TripStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Models/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Registry/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Registry/RiderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Registry/TripManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Strategy/DistanceBasedMatchingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Strategy/DistanceBasedPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Strategy/DriverMatchingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aman/Strategy/PricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestBasicFunctionality.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2VTLPUuUI3tpRQpL58YqxKKpCZv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.aman.Models" />
+      <recent name="org.aman.Exceptions" />
+      <recent name="org.aman.Registry" />
+      <recent name="org.example.Models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestBasicFunctionality.TestBasics (1)">
+    <configuration name="TestBasicFunctionality.TestBasics (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LLD-Uber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBasicFunctionality" />
+      <option name="METHOD_NAME" value="TestBasics" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBasicFunctionality.TestBasics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LLD-Uber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBasicFunctionality" />
+      <option name="METHOD_NAME" value="TestBasics([Ljava.lang.String;)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestBasicFunctionality.TestBasics (1)" />
+        <item itemvalue="JUnit.TestBasicFunctionality.TestBasics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dadc19b9-7623-4971-b53f-d3b02bd385f9" name="Changes" comment="" />
+      <created>1694855106690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694855106690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
